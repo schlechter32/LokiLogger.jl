@@ -10,11 +10,10 @@ StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
 
 [compat]
-HTTP = "1.10"
-JSON3 = "1"
-StructTypes = "1"
-URIs = "1"
-julia = "1"
+HTTP = "1.10.19"
+JSON3 = "1.14.3"
+StructTypes = "1.11.0"
+URIs = "1.6.1"
 
 [extras]
 Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
